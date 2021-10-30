@@ -4,11 +4,27 @@ body {
     color: #FFFFFF;
 }
 
+footer {
+    width: 100%;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 h1 {
     font-size: 68px;
 }
 
+a {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
 .title {
+    margin: 0.1rem;
     text-align: center;
 }
 
@@ -20,14 +36,14 @@ table {
 }
 
 caption {
-    padding: 5px;
+    padding: 0.6rem;
     font-size: 30px;
 }
 
 td, th {
     border: 1px solid #FFFFFF;
     text-align: left;
-    padding: 8px;
+    padding: 0.6rem;
     width: 26.6666666667%;
 }
 
