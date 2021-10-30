@@ -1,0 +1,22 @@
+{
+  "name": "lasaschedule",
+  "version": "1.0.0",
+  "description": "Lasa schedule app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-davidson/lasaschedule.git"
+  },
+  "author": "Jack Davidson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack-davidson/lasaschedule/issues"
+  },
+  "homepage": "https://github.com/jack-davidson/lasaschedule#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
