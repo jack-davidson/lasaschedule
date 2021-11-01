@@ -69,10 +69,6 @@ var schedules = {
     ],
 };
 
-for (var section of schedules["normal"]) {
-    console.log(section.period);
-}
-
 app.get('/', (req, res) => {
   res.render('index', {schedules});
 })
